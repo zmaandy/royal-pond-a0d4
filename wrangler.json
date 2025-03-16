@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "royal-pond-a0d4",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "98643cf7-5959-4c0f-b688-ca53433e6aa1",
+      "database_name": "dark-wood-cc94-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
